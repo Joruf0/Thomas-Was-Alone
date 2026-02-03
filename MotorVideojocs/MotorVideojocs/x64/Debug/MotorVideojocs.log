@@ -1,0 +1,3 @@
+﻿  MotorVideojocs.cpp
+MotorVideojocs.obj : error LNK2001: unresolved external symbol "public: static struct sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2U12@B)
+E:\AluCiclesGS1\Prog\MotorVideojocs\x64\Debug\MotorVideojocs.exe : fatal error LNK1120: 1 unresolved externals
