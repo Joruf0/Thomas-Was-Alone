@@ -160,56 +160,6 @@ JocPlataformes.exe
 
 ---
 
-## 🎓 Reflexió Personal
-
-### Què he après?
-
-Aquest projecte m'ha ensenyat molt sobre:
-
-1. **POO en la pràctica**: He vist com l'herència i el polimorfisme fan el codi més net i reutilitzable
-2. **Gestió de memòria**: Ara entenc la importància de fer delete per cada new
-3. **Arquitectura de software**: Separar el codi en classes té molt de sentit
-4. **Debugging**: He passat moltes hores trobant errors i he après molt
-5. **Persistència**: Guardar i carregar dades és més complex del que pensava
-
-### Dificultats:
-
-- **SFML**: Al principi em va costar entendre com funcionen els events i el bucle del joc
-- **Col·lisions**: Detectar col·lisions correctament és més difícil del que sembla
-- **Punters**: M'he equivocat diverses vegades amb new/delete
-- **Temps**: Hagués volgut afegir més funcionalitats però el temps és limitat
-
-### Què faria diferent?
-
-- Començar amb un disseny més clar de les classes
-- Fer servir més diagrames UML abans de programar
-- Implementar tests per a cada classe
-- Afegir comentaris més detallats des del principi
-
----
-
-## 👨‍💻 Autor
-
-**[El teu nom]**  
-*Estudiant de 1r - Grau Superior en DAM*  
-[El teu correu / GitHub]
-
----
-
-## 📄 Llicència
-
-Aquest projecte és un treball acadèmic creat amb finalitats educatives.
-
----
-
-## 🙏 Agraïments
-
-- Als meus professors per l'ajuda i orientació
-- A la comunitat de SFML per la documentació
-- Als meus companys de classe per provar el joc i donar feedback
-
----
-
 **Data de creació:** Febrer 2026  
 **Versió:** 1.0  
 **Llenguatge:** C++17  
