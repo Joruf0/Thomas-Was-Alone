@@ -67,17 +67,8 @@ Puntuació = (Nivells completats × 100) - (Morts × 10)
 ### Estructura de Classes (POO)
 
 He aplicat els principis de Programació Orientada a Objectes creant una jerarquia de classes:
-
-```
-GameObject (classe base abstracta)
-    ├── Character (personatges jugables)
-    │   ├── Thomas
-    │   └── Bob
-    ├── Platform (plataformes)
-    └── Enemy (enemics)
-        ├── PatrolEnemy (patrulla horitzontal)
-        └── FlyingEnemy (vola vertical)
-```
+UML:
+<img width="2216" height="914" alt="uml_thomas" src="https://github.com/user-attachments/assets/98dcc869-446d-4464-93ff-dcf4b14d5f39" />
 
 ### 📂 Fitxers del Projecte
 
